@@ -23,9 +23,3 @@
 - Improve my coding & problem-solving skills  
 - Share my learning journey on GitHub  
 
-
-
-## 📊 GitHub Stats  
-
-![Samiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samik753&show_icons=true&theme=radical)  
-
